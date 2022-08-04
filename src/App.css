@@ -14,7 +14,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #e70eb1;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.registry base{
+ background-color: black;
+}
+.registry{
+  color: #8f61fb;
+}
+
+.registry form{
+  margin-top: 60px;
+  margin-bottom: 30px;
+}
+
